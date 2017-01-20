@@ -1,5 +1,3 @@
-\c ggalante
-
 DROP USER IF EXISTS "michael";
 
 CREATE USER "michael" WITH ENCRYPTED PASSWORD 'stonebreaker';
